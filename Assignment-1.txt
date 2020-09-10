@@ -79,7 +79,7 @@ B)
  mv b c
 
 
-c) alias bhargav="ls -lh"
+c) alias atul="ls -lh"
 
 d) mv a cdac
 
@@ -87,7 +87,7 @@ d) mv a cdac
 3)
 A)
 touch file1.txt file2.txt file3.txt file4.txt file5.txt
-echo 'Bhargav'>> file1.txt file2.txt file3.txt file4.txt file5.txt  
+echo 'atul'>> file1.txt file2.txt file3.txt file4.txt file5.txt  
 b)cat file1.txt file2.txt file3.txt file4.txt file5.txt
 c)touch file1.txt file2.txt file3.txt file4.txt file5.txt
 d) rm -r c cdac a
@@ -117,16 +117,16 @@ g)ls -ld
 
 ##################################################################
 
-1)mkdir Bhargav 
+1)mkdir atul 
 touch a.txt b.txt c.txt dtxt
-chmod u-rwx Bhargav
+chmod u-rwx atul
 a)chmod u+rw- bar
 b)chmod +r--
 c) chmod +x
 
-2)chmod +x Bhargav
-3)chmod -wx Bhargav	
-4)echo * Bhargav	
+2)chmod +x atul
+3)chmod -wx atul	
+4)echo * atul	
 5)echo * /etc/
 6)find /etc -type f -name "*.conf"
 7)echo 'helloo' >> a.txt
